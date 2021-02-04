@@ -10,7 +10,7 @@
 <p align="center">Em Construção..</p>
 
 <p align="center">Do you want to know me better? Follow me!</p>
-<p align="center">&#x2B07;&#xFE0F  ⬇️</p>
+<p align="center">&#x2B07;&#xFE0F  &#x2B07;&#xFE0F </p>
 
 <p align="center">
  <a href="https://google/link"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/linkedin.svg" height=40></a> 
