@@ -24,6 +24,7 @@
  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E"/> </a>
  <a href="https://html5.org/"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </a>
  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </a>
+ <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap%20-%238e00bd.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a>
  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux%20-%2300599C.svg?&style=for-the-badge&logo=linux%2B%2B&ogoColor=white"/> </a>
  <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite%20-%23F05033.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
