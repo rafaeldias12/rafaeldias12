@@ -2,10 +2,11 @@
 <p align="center">
  <img  width="800" height="400" src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/card.gif">
 </p>
-
+<p>
  <h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎
 
-<p align="center">Em construção..</p>
+ <p align="center">Em construção..</p>
+</p>
 
 <p align="center">Em construção..</p>
 
