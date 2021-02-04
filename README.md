@@ -3,9 +3,9 @@
  <img  width="800" height="400" src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/card.gif">
 </p>
 
-<p align="center">
- <h2> Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎 </h2>
- <blockquote> <p> Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</p> </blockquote>
+<p>
+ <h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎
+ <blockquote> <p align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</blockquote></h2>
 </p>
 
 <p>
