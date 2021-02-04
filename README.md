@@ -1,15 +1,18 @@
 <hr>
 <p align="center">
  <img  width="800" height="400" src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/card.gif">
-</p>
+</p> 
 <h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎</h2>
-<blockquote><h2 align="center" , font size="90">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</h2></blockquote>
+<blockquote> <h4 align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</h4></blockquote>
 <p align="center">Em Construção... 
 </p>
 
 <p align="center">Em Construção..</p>
-<blockquote> RAFAEL </blockquote>
-<p align="center">Do you want to know me better? Follow me!</p>
+
+<p>
+<h2 align="center"> Vocês querem me conhecer melhor? Me sigam! </h2>
+<blockquote> <h4 align="center"> Do you want to know me better? Follow me! </h4> </blockquote>
+</p>
 <p align="center">&#x2B07;&#xFE0F  &#x2B07;&#xFE0F </p>
 
 <p align="center">
