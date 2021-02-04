@@ -7,14 +7,11 @@
 
 <p align="center">Em Construção..</p>
 
-<p align="center"><a href="https://google/link"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/linkedin.svg" height=25></a> <a href="https://www.instagram.com/"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/instagram.svg" height=25></a> 
+<p align="center">
+ <a href="https://google/link"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/linkedin.svg" height=25></a> 
+ <a href="https://www.instagram.com/"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/instagram.svg" height=25></a> 
 </p>
 
-<p align=center>
-  <a href="https://github.com/rafaeldias12">
-    <img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/github.png" height=25>
-  </a>
-</p>
 <p align="center">
 <a href="https://github.com/rafaeldias12"><img src="https://img.shields.io/github/followers/rafaeldias12?style=social"></a>
 </p>
