@@ -1,9 +1,12 @@
 <hr>
 <p align="center">
  <img  width="800" height="400" src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/card.gif">
-</p> 
-<h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎</h2>
-<blockquote> <p align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</p></blockquote>
+</p>
+
+<p align="center">
+<h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎<blockquote> <h4 align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</h4></blockquote></h2>
+
+</p>
 
 <p>
  <h2 align="center">Em construção..</h2>
