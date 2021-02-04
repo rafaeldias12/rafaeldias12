@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎<blockquote> <h4 align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</h4></blockquote></h2>
+<h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎<blockquote> <p align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</p></blockquote></h2>
 
 </p>
 
