@@ -3,13 +3,14 @@
  <img  width="800" height="400" src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/card.gif">
 </p>
 
- <h2 align="center">Olá! Meu nome é Rafael Dias. Eu sou do Brasil. 👋😎</h2>
+ <h2 align="center">Olá! Meu nome é Rafael Dias.É um prazer ter você aqui! 👋😎</h2>
 
  <p align="center">Em construção..</p>
 
 <p align="center">Em construção..</p>
 <hr>
-<h3 align="center", font-size"50">Vocês querem me conhecer melhor? Sigam-Me!</h3>
+
+<h3 align="center", font-size"50">Querem me conhecer melhor? Sigam-Me!</h3>
 
 <p align="center">&#x2B07;&#xFE0F  &#x2B07;&#xFE0F </p>
 
