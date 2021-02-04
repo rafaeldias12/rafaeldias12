@@ -1,15 +1,20 @@
+<hr>
 <p align="center">
  <img  width="800" height="400" src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/card.gif">
 </p>
+
 <h2 align="center">Hello there! My name is Rafael Dias. I'm from Brazil. 👋😎</h2>
 <p align="center">Em Construção... 
 </p>
 
 <p align="center">Em Construção..</p>
 
+<p align="center">Do you want to know me better? Follow me!</p>
+<p align="center">&#x2B07;&#xFE0F  ⬇️</p>
+
 <p align="center">
- <a href="https://google/link"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/linkedin.svg" height=25></a> 
- <a href="https://www.instagram.com/"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/instagram.svg" height=25></a> 
+ <a href="https://google/link"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/linkedin.svg" height=40></a> 
+ <a href="https://www.instagram.com/"><img src="https://github.com/rafaeldias12/rafaeldias12/blob/main/img/instagram.svg" height=40></a> 
 </p>
 
 <p align="center">
@@ -26,7 +31,7 @@
  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux%20-%2300599C.svg?&style=for-the-badge&logo=linux%2B%2B&ogoColor=white"/> </a>
  <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite%20-%23F05033.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
 </p>
-
+<hr>
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=rafaeldias12&show_icons=true&theme=radical">
 </p>
