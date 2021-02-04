@@ -10,7 +10,7 @@
 <p align="center">Em construção..</p>
 <hr>
 
-<h3 align="center", font-size"50">Querem me conhecer melhor? Sigam-Me!</h3>
+<h3 align="center">Quer me conhecer melhor? 💻 </h3>
 
 <p align="center">&#x2B07;&#xFE0F  &#x2B07;&#xFE0F </p>
 
