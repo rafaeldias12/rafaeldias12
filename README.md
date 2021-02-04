@@ -8,8 +8,8 @@
  <p align="center">Em construção..</p>
 
 <p align="center">Em construção..</p>
-
-<h2 align="center">Vocês querem me conhecer melhor? Sigam-Me!</h2>
+<hr>
+<h3 align="center", font-size"50">Vocês querem me conhecer melhor? Sigam-Me!</h3>
 
 <p align="center">&#x2B07;&#xFE0F  &#x2B07;&#xFE0F </p>
 
@@ -36,3 +36,4 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=rafaeldias12&show_icons=true&theme=radical">
 </p>
+<hr>
