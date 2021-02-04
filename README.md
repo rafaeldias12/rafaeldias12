@@ -9,18 +9,17 @@
 </p>
 
 <p>
- <h2 align="center">Em construção..</h2>
- <blockquote> <p align="center">Under construction..</p></blockquote>
+ <h2 align="center">Em construção..<blockquote> <p align="center">Under construction..</blockquote></h2>
 </p>
 
 <p>
- <h2 align="center">Em construção..</h2>
- <blockquote> <p align="center">Under construction..</p></blockquote>
+ <h2 align="center">Em construção..<blockquote> <p align="center">Under construction..</blockquote></h2>
 </p>
 
-<h2 align="center"> Vocês querem me conhecer melhor? Sigam-Me! </h2>
-<blockquote> <h4 align="center"> Do you want to know me better? Follow me!! </h4> </blockquote>
+<p>
+ <h2 align="center">Vocês querem me conhecer melhor? Sigam-Me!<blockquote> <p align="center">Do you want to know me better? Follow me!</blockquote></h2>
 </p>
+
 <p align="center">&#x2B07;&#xFE0F  &#x2B07;&#xFE0F </p>
 
 <p align="center">
